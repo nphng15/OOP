@@ -1,0 +1,5 @@
+﻿D:\Mine\Soft\Visual Studio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BT11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SanXuat.cpp
+  main.cpp
+  Generating Code...
+  BT11.vcxproj -> D:\Mine\UIT\Workspace\Wecode\OOP\BT11.2\BT11.2\x64\Debug\BT11.2.1.exe

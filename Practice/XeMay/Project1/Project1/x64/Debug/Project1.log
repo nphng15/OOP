@@ -1,0 +1,613 @@
+﻿  main.cpp
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3): error C2678: binary '<<': no operator found which takes a left-hand operand of type 'std::ostream' (or there is no acceptable conversion)
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(480,39):
+  could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)': cannot convert argument 2 from 'XeMay' to 'std::basic_streambuf<char,std::char_traits<char>> *'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(448,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)': cannot convert argument 2 from 'XeMay' to 'const void *'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(430,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)': cannot convert argument 2 from 'XeMay' to 'long double'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(412,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)': cannot convert argument 2 from 'XeMay' to 'double'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(394,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)': cannot convert argument 2 from 'XeMay' to 'float'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(376,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)': cannot convert argument 2 from 'XeMay' to 'unsigned __int64'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(358,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)': cannot convert argument 2 from 'XeMay' to '__int64'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(340,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)': cannot convert argument 2 from 'XeMay' to 'unsigned long'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(322,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)': cannot convert argument 2 from 'XeMay' to 'long'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(303,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)': cannot convert argument 2 from 'XeMay' to 'unsigned int'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(277,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)': cannot convert argument 2 from 'XeMay' to 'int'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(258,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)': cannot convert argument 2 from 'XeMay' to 'unsigned short'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(224,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)': cannot convert argument 2 from 'XeMay' to 'short'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(206,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)': cannot convert argument 2 from 'XeMay' to 'bool'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(200,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))': cannot convert argument 2 from 'XeMay' to 'std::ios_base &(__cdecl *)(std::ios_base &)'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(194,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))': cannot convert argument 2 from 'XeMay' to 'std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &)'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(189,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))': cannot convert argument 2 from 'XeMay' to 'std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &)'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.h(20,18):
+  or       'std::ostream &operator <<(std::istream &,XeMay)' [found using argument-dependent lookup]
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::ostream &operator <<(std::istream &,XeMay)': cannot convert argument 1 from 'std::ostream' to 'std::istream &'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'const std::error_code &'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		Reason: cannot convert from 'XeMay' to 'const std::error_code'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'unsigned char'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'const unsigned char *'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'signed char'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'const signed char *'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': template parameter '_Elem' is ambiguous
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  		could be 'XeMay'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  		or       'char'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for '_Elem' from 'XeMay'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'const _Elem *' from 'XeMay'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'char'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'const char *'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'char'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  	'initializing': cannot convert from 'XeMay' to 'const char *'
+  		D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,15):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'const std::unique_ptr<_Ty2,_Dx2> &' from 'XeMay'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'XeMay'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'XeMay'
+  D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\main.cpp(19,3):
+  while trying to match the argument list '(std::ostream, XeMay)'
+  
+  XeMay.cpp
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(11,13): error C2039: 'Nhap': is not a member of 'XeMay'
+  D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.h(8,7):
+  see declaration of 'XeMay'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(17,3): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(20,3): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(23,3): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(25,2): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(30,3): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(33,3): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(35,2): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(40,3): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(43,3): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(45,2): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(54,3): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(57,3): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(60,3): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(62,2): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(67,3): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(70,3): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(72,2): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(77,3): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(80,3): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(82,2): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(85,13): error C2039: 'Xuat': is not a member of 'XeMay'
+  D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.h(8,7):
+  see declaration of 'XeMay'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(87,25): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(88,25): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(89,26): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(90,18): error C3861: 'GiaXe': identifier not found
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(90,6): error C2593: 'operator <<' is ambiguous
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(480,39):
+  could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(448,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(430,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(412,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(394,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(376,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(358,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(340,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(322,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(303,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(277,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(258,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(224,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(206,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(200,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(194,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(189,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(90,6):
+  while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, unknown-type)'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,5): error C2676: binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(94,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,5): error C2676: binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(95,23): error C2065: 'd': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,5): error C2676: binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(96,23): error C2065: 'b': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,5): error C2676: binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(97,24): error C2065: 'k': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,5): error C2676: binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  D:\Mine\Soft\Visual Studio\IDE\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\XeMay\Project1\Project1\XeMay.cpp(98,20): error C3861: 'GiaXe': identifier not found
+  Generating Code...

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\VanPhong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|solutionrelative:BT11\\VanPhong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\SanXuat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|solutionrelative:BT11\\SanXuat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|solutionrelative:BT11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\NhanVien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|solutionrelative:BT11\\NhanVien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\NhanVien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|solutionrelative:BT11\\NhanVien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\VanPhong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|solutionrelative:BT11\\VanPhong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\SanXuat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F03B073B-5480-4EBB-8065-3A886BC8F289}|BT11\\BT11.vcxproj|solutionrelative:BT11\\SanXuat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\main.cpp",
+              "RelativeDocumentMoniker": "BT11\\main.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\main.cpp",
+              "RelativeToolTip": "BT11\\main.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T16:00:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanXuat.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\SanXuat.cpp",
+              "RelativeDocumentMoniker": "BT11\\SanXuat.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\SanXuat.cpp",
+              "RelativeToolTip": "BT11\\SanXuat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T15:53:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanXuat.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\SanXuat.h",
+              "RelativeDocumentMoniker": "BT11\\SanXuat.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\SanXuat.h",
+              "RelativeToolTip": "BT11\\SanXuat.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T15:38:59.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VanPhong.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\VanPhong.cpp",
+              "RelativeDocumentMoniker": "BT11\\VanPhong.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\VanPhong.cpp",
+              "RelativeToolTip": "BT11\\VanPhong.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T15:50:07.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VanPhong.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\VanPhong.h",
+              "RelativeDocumentMoniker": "BT11\\VanPhong.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\VanPhong.h",
+              "RelativeToolTip": "BT11\\VanPhong.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T15:35:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVien.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\NhanVien.cpp",
+              "RelativeDocumentMoniker": "BT11\\NhanVien.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\NhanVien.cpp",
+              "RelativeToolTip": "BT11\\NhanVien.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T15:35:30.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVien.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\NhanVien.h",
+              "RelativeDocumentMoniker": "BT11\\NhanVien.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\BT11.2\\BT11\\NhanVien.h",
+              "RelativeToolTip": "BT11\\NhanVien.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T15:35:25.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

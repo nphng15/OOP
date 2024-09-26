@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\GiaSuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\GiaSuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\De.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\De.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\De.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\De.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Cuu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\Cuu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Cuu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\Cuu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Bo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\Bo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Bo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11CB129-10DF-4E68-A73E-E22673AE7FEF}|11.2.2\\11.2.2.vcxproj|solutionrelative:11.2.2\\Bo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\main.cpp",
+              "RelativeDocumentMoniker": "11.2.2\\main.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\main.cpp",
+              "RelativeToolTip": "11.2.2\\main.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T18:22:47.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "De.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\De.cpp",
+              "RelativeDocumentMoniker": "11.2.2\\De.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\De.cpp",
+              "RelativeToolTip": "11.2.2\\De.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T18:20:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "De.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\De.h",
+              "RelativeDocumentMoniker": "11.2.2\\De.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\De.h",
+              "RelativeToolTip": "11.2.2\\De.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T18:20:25.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuu.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Cuu.cpp",
+              "RelativeDocumentMoniker": "11.2.2\\Cuu.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Cuu.cpp",
+              "RelativeToolTip": "11.2.2\\Cuu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T18:17:05.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuu.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Cuu.h",
+              "RelativeDocumentMoniker": "11.2.2\\Cuu.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Cuu.h",
+              "RelativeToolTip": "11.2.2\\Cuu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T18:15:56.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bo.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Bo.cpp",
+              "RelativeDocumentMoniker": "11.2.2\\Bo.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Bo.cpp",
+              "RelativeToolTip": "11.2.2\\Bo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T18:12:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bo.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Bo.h",
+              "RelativeDocumentMoniker": "11.2.2\\Bo.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\Bo.h",
+              "RelativeToolTip": "11.2.2\\Bo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T18:11:33.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiaSuc.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\GiaSuc.h",
+              "RelativeDocumentMoniker": "11.2.2\\GiaSuc.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\BT11.2\\11.2.2\\11.2.2\\GiaSuc.h",
+              "RelativeToolTip": "11.2.2\\GiaSuc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T18:07:41.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  BHXH.cpp
+D:\Mine\UIT\Workspace\Wecode\OOP\TestOOP\BHXH\BHXH\BHXH.cpp(5,25): error C2065: 'iNamBD': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\TestOOP\BHXH\BHXH\BHXH.cpp(6,25): error C2065: 'iThangBD': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\TestOOP\BHXH\BHXH\BHXH.cpp(7,2): error C2065: 'iNamSau2024': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\TestOOP\BHXH\BHXH\BHXH.cpp(7,16): error C2065: 'iNamKT': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\TestOOP\BHXH\BHXH\BHXH.cpp(8,18): error C2065: 'iThangKT': undeclared identifier

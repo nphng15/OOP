@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\LAB4_1\Lab4_1\LAB4\main.cpp(39,23): error C2563: mismatch in formal parameter list
+D:\Mine\UIT\Workspace\Wecode\OOP\Practice\LAB4_1\Lab4_1\LAB4\main.cpp(39,23): error C2568: '<<': unable to resolve function overload
+  D:\Mine\UIT\Workspace\Wecode\OOP\Practice\LAB4_1\Lab4_1\LAB4\main.cpp(39,23):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  

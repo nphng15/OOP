@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\XeMay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|solutionrelative:Project1\\XeMay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\XeMay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|solutionrelative:Project1\\XeMay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\KhungXe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|solutionrelative:Project1\\KhungXe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\KhungXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79B28252-7A73-4BBE-A9DB-29D2349AD55D}|Project1\\Project1.vcxproj|solutionrelative:Project1\\KhungXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhungXe.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\KhungXe.h",
+              "RelativeDocumentMoniker": "Project1\\KhungXe.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\KhungXe.h",
+              "RelativeToolTip": "Project1\\KhungXe.h",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T16:21:02.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhungXe.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\KhungXe.cpp",
+              "RelativeDocumentMoniker": "Project1\\KhungXe.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\KhungXe.cpp",
+              "RelativeToolTip": "Project1\\KhungXe.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T16:13:33.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XeMay.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\XeMay.cpp",
+              "RelativeDocumentMoniker": "Project1\\XeMay.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\XeMay.cpp",
+              "RelativeToolTip": "Project1\\XeMay.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T15:54:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T15:30:55.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XeMay.h",
+              "DocumentMoniker": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\XeMay.h",
+              "RelativeDocumentMoniker": "Project1\\XeMay.h",
+              "ToolTip": "D:\\Mine\\UIT\\Workspace\\Wecode\\OOP\\Practice\\XeMay\\Project1\\Project1\\XeMay.h",
+              "RelativeToolTip": "Project1\\XeMay.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T15:49:31.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

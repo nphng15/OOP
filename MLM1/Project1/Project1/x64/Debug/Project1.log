@@ -1,0 +1,178 @@
+﻿  ThanhVien.cpp
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(15,17): error C2039: 'tinhLaiHangThang': is not a member of 'ThanhVien'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(9,7):
+  see declaration of 'ThanhVien'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(17,17): error C2039: 'nhanHoaHong': is not a member of 'ThanhVien'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(9,7):
+  see declaration of 'ThanhVien'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(37,13): error C2039: 'nhanHoaHong': is not a member of 'DaiLy'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(29,7):
+  see declaration of 'DaiLy'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(37,13): error C2084: function 'void nhanHoaHong(double)' already has a body
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(17,17):
+  see previous definition of 'nhanHoaHong'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(38,5): error C2065: 'so_du': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(38,25): error C2065: 'ty_le_hoa_hong': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,16): error C2039: 'tinhLaiHangThang': is not a member of 'NhaDauTu'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(40,7):
+  see declaration of 'NhaDauTu'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,16): error C2084: function 'void tinhLaiHangThang(void)' already has a body
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(15,17):
+  see previous definition of 'tinhLaiHangThang'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(56,20): error C2014: preprocessor command must start as first nonwhite space
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(56,18): error C2065: 'co': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(59,15): error C2143: syntax error: missing ';' before 'using namespace'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,26): error C2144: syntax error: 'int' should be preceded by ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,16): error C2512: 'ThanhVien::ThanhVien': no appropriate default constructor available
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,16):
+  while trying to match the argument list '()'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,26): error C2144: syntax error: 'int' should be preceded by ';'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,44): error C2146: syntax error: missing ';' before identifier 'ten_thanh_vien'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,44): error C2065: 'ten_thanh_vien': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,60): error C2062: type 'int' unexpected
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,79): error C2059: syntax error: ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(62,75): error C2143: syntax error: missing ';' before '{'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(64,21): error C2601: 'ThanhVien::inThongTin': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(68,21): error C2601: 'ThanhVien::muaCoin': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(70,21): error C2039: 'tinhLaiHangThang': is not a member of 'ThanhVien'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(9,7):
+  see declaration of 'ThanhVien'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(70,21): error C2601: 'tinhLaiHangThang': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(72,21): error C2039: 'nhanHoaHong': is not a member of 'ThanhVien'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(9,7):
+  see declaration of 'ThanhVien'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(72,21): error C2601: 'nhanHoaHong': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,22): error C2144: syntax error: 'int' should be preceded by ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,14): error C2512: 'GiamDoc::GiamDoc': no appropriate default constructor available
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,14):
+  while trying to match the argument list '()'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,22): error C2144: syntax error: 'int' should be preceded by ';'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,26): error C2086: 'int ma_so': redefinition
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,30):
+  see declaration of 'ma_so'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,33): error C2086: 'int string': redefinition
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,37):
+  see declaration of 'string'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,40): error C2146: syntax error: missing ';' before identifier 'ten'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,43): error C2059: syntax error: ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(74,64): error C2065: 'ten': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(76,5): error C2144: syntax error: 'void' should be preceded by ';'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(76,19): error C2601: 'GiamDoc::inThongTin': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,18): error C2144: syntax error: 'int' should be preceded by ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,12): error C2512: 'DaiLy::DaiLy': no appropriate default constructor available
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,12):
+  while trying to match the argument list '()'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,18): error C2144: syntax error: 'int' should be preceded by ';'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,22): error C2086: 'int ma_so': redefinition
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,30):
+  see declaration of 'ma_so'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,29): error C2086: 'int string': redefinition
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,37):
+  see declaration of 'string'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,36): error C2146: syntax error: missing ';' before identifier 'ten'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,36): error C2065: 'ten': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,41): error C2062: type 'int' unexpected
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,52): error C2059: syntax error: ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(80,95): error C2143: syntax error: missing ';' before '{'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(81,9): error C2065: 'ty_le_hoa_hong': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(81,30): error C2065: 'cap': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(84,17): error C2601: 'DaiLy::inThongTin': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(88,17): error C2601: 'DaiLy::muaCoin': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(92,17): error C2039: 'nhanHoaHong': is not a member of 'DaiLy'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(29,7):
+  see declaration of 'DaiLy'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(92,17): error C2601: 'nhanHoaHong': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,24): error C2144: syntax error: 'int' should be preceded by ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,15): error C2512: 'NhaDauTu::NhaDauTu': no appropriate default constructor available
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,15):
+  while trying to match the argument list '()'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,24): error C2144: syntax error: 'int' should be preceded by ';'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,28): error C2086: 'int ma_so': redefinition
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,30):
+  see declaration of 'ma_so'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,35): error C2086: 'int string': redefinition
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(61,37):
+  see declaration of 'string'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,42): error C2146: syntax error: missing ';' before identifier 'ten'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,42): error C2065: 'ten': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,47): error C2062: type 'int' unexpected
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(96,68): error C2059: syntax error: ')'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(97,102): error C2143: syntax error: missing ';' before '{'
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(98,9): error C3861: 'capNhatLaiSuat': identifier not found
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(101,20): error C2601: 'NhaDauTu::inThongTin': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(105,20): error C2601: 'NhaDauTu::muaCoin': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(110,20): error C2039: 'tinhLaiHangThang': is not a member of 'NhaDauTu'
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(40,7):
+  see declaration of 'NhaDauTu'
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(110,20): error C2601: 'tinhLaiHangThang': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(116,20): error C2601: 'NhaDauTu::capNhatLaiSuat': local function definitions are illegal
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(55,35):
+  this line contains a '{' which has not yet been matched
+  
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(127,5): error C2065: 'in_dau_tu': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(127,18): error C2065: 'ty_le_lai_suat': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(128,5): error C2065: 'so_du': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(129,5): error C2065: 'coin_dau_tu': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(93,9): error C2065: 'so_du': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(93,29): error C2065: 'ty_le_hoa_hong': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(111,22): error C2065: 'coin_dau_tu': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(111,37): error C2065: 'ty_le_lai_suat': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(112,9): error C2065: 'so_du': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(113,9): error C2065: 'coin_dau_tu': undeclared identifier
+D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.cpp(132,16): error C2084: function 'void NhaDauTu::capNhatLaiSuat(void)' already has a body
+  D:\Mine\UIT\Workspace\Wecode\OOP\MLM\Project1\Project1\ThanhVien.h(54,10):
+  see previous definition of 'capNhatLaiSuat'
+  
